@@ -1,0 +1,11 @@
+{
+  "name": "otto-lite",
+  "owner": { "name": "Otto" },
+  "plugins": [
+    {
+      "name": "otto-lite",
+      "source": "./",
+      "description": "Otto Lite: a quiet personal assistant on Gmail, Google Calendar and Drive. Morning brief, inbox check, follow-ups, bill reminders, weekly review. Never sends anything without a yes."
+    }
+  ]
+}

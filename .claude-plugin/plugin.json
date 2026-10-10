@@ -1,0 +1,7 @@
+{
+  "name": "otto-lite",
+  "version": "0.1.0",
+  "description": "Otto Lite: a quiet personal assistant on Gmail, Google Calendar and Drive. Morning brief, inbox check, follow-ups, bill reminders, weekly review. Never sends anything without a yes.",
+  "author": { "name": "Otto" },
+  "keywords": ["assistant", "gmail", "calendar", "morning-brief", "cowork"]
+}
